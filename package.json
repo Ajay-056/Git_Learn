@@ -1,0 +1,22 @@
+{
+  "name": "git-learn",
+  "version": "1.0.0",
+  "description": "Learned GIT through tamil developer youtube channel and created this project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajay6/Git_Learn.git"
+  },
+  "author": "ak@noder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajay6/Git_Learn/issues"
+  },
+  "homepage": "https://github.com/Ajay6/Git_Learn#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
